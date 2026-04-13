@@ -1,4 +1,6 @@
-## Hi there 👋
+## hi there 👋
+---
+i am a hs student working on personal projects
 
 <!--
 **aqilmuh/aqilmuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
