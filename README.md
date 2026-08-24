@@ -1,5 +1,5 @@
 # hi there!
-i’m a highschool student interested in comp-sci working on some personal projects. learning devops and ml along the way.
+i’m a highschool student interested in comp-eng working on some personal projects, learning devops and ml along the way.
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
@@ -26,7 +26,7 @@ i’m a highschool student interested in comp-sci working on some personal proje
 ## design softwares i use:
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@rktz)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <!--
 **aqilmuh/aqilmuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
