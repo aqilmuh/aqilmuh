@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Aqil</h1>
+<h1 align="center" style="font-size: 70px;">Hey, I'm Aqil.</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=High-school+student+into+computer+engineering;Building+projects+and+learning+by+doing;Exploring+AI%2FML+and+DevOps" alt="Animated introduction: computer engineering, personal projects, AI/ML, and DevOps" />
-</p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=High-school+student+into+computer+engineering;Building+projects+and+learning+by+doing;Exploring+AI%2FML+and+DevOps" alt="Animated introduction: computer engineering, personal projects, AI/ML, and DevOps" />
+</p> -->
 
 <p align="center">
   I'm a high-school student interested in computer engineering and software development.
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </details>
 
-## GitHub activity
+<!-- ## GitHub activity
 
 <p align="center">
   <a href="https://github.com/aqilmuh">
@@ -83,7 +83,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqilmuh&amp;theme=github-compact&amp;hide_border=true" alt="Aqil's GitHub contribution activity graph" width="98%" />
   </a>
-</p>
+</p> -->
 
 <details>
   <summary><strong>More links</strong></summary>
