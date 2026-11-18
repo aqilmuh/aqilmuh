@@ -10,7 +10,10 @@ and I want to study AI to take part in developing technology for good purposes.
 ---
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.webp" alt="other" width="18" height="18"> Languages
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.webp" alt="learn" width="18" height="18"> Tools
 ![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -26,7 +29,8 @@ and I want to study AI to take part in developing technology for good purposes.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.webp" alt="learn" width="24" height="24"> Learning
-- Completed: [Courses](https://www.linkedin.com/in/muh-aqil/details/certifications/)
+ - Harvard CS50x
+ - [Courses](https://www.linkedin.com/in/muh-aqil/details/certifications/)
   
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
